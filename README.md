@@ -2,12 +2,17 @@
 
 <img width="519" height="763" alt="image" src="https://github.com/user-attachments/assets/d14dad03-a661-476f-a654-29ece8894a6f" />
 
+--------------
+
+**Robert J. Vanderbei**
 
 [Linear Programming](https://vanderbei.princeton.edu/LPbook/) Foundations and Extensions
 
 Series: International Series in Operations Research & Management Science
 
-**Robert J. Vanderbei**
+5th ed. 2020, XXV, 471 p. 182 illus., 109 illus. in color.
+
+
 
 [Associated Software](https://vanderbei.princeton.edu/LPbook/src/index.html)
 
