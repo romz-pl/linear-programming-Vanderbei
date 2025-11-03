@@ -1,0 +1,10 @@
+# Ignore object files
+*.o
+
+# Ignore static library files
+*.a
+
+# Ignore executable files
+src/simpo/simpo
+src/ipo/ipo
+
