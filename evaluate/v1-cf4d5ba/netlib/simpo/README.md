@@ -8,17 +8,17 @@
 | [25FV47](25fv47.mps.sol)       |    822 |   1571 |    11127 | primal infeasible  |
 | [80BAU3B](80bau3b.mps.sol)     |   2263 |   9799 |    29063 | -9.8722419e+05     |
 | [ADLITTLE](adlittle.mps.sol)   |     57 |     97 |      465 | -2.2549496e+05     |
-| [AFIRO](afiro.mps.sol)         |     28 |     32 |       88 | 4.6475314e+02      |
-| [AGG](agg.mps.sol)             |    489 |    163 |     2541 | 3.5991767e+07      |
-| [AGG2](agg2.mps.sol)           |    517 |    302 |     4515 | 2.0239252e+07      |
+| [AFIRO](afiro.mps.sol)         |     28 |     32 |       88 |  4.6475314e+02     |
+| [AGG](agg.mps.sol)             |    489 |    163 |     2541 |  3.5991767e+07     |
+| [AGG2](agg2.mps.sol)           |    517 |    302 |     4515 |  2.0239252e+07     |
 | [AGG3](agg3.mps.sol)           |    517 |    302 |     4531 | -1.0312116e+07     |
-| [BANDM](bandm.mps.sol)         |    306 |    472 |     2659 | 1.5862802e+02      |
+| [BANDM](bandm.mps.sol)         |    306 |    472 |     2659 |  1.5862802e+02     |
 | [BEACONFD](beaconfd.mps.sol)   |    174 |    262 |     3476 | -3.3592486e+04     |
-| [BLEND](blend.mps.sol)         |     75 |     83 |      521 | 3.0812150e+01      |
+| [BLEND](blend.mps.sol)         |     75 |     83 |      521 |  3.0812150e+01     |
 | [BNL1](bnl1.mps.sol)           |    644 |   1175 |     6129 | -1.9776296e+03     |
 | [BNL2](bnl2.mps.sol)           |   2325 |   3489 |    16124 | -1.8112365e+03     |
-| [BOEING1](boeing1.mps.sol)     |    351 |    384 |     3865 | 3.3521357e+02      |
-| [BOEING2](boeing2.mps.sol)     |    167 |    143 |     1339 | 3.1501873e+02      |
+| [BOEING1](boeing1.mps.sol)     |    351 |    384 |     3865 |  3.3521357e+02     |
+| [BOEING2](boeing2.mps.sol)     |    167 |    143 |     1339 |  3.1501873e+02     |
 | [BORE3D](bore3d.mps.sol)       |    234 |    315 |     1525 | -1.3730804e+03     |
 | [BRANDY](brandy.mps.sol)       |    221 |    249 |     2150 | -1.5185099e+03     |
 | [CAPRI](capri.mps.sol)         |    272 |    353 |     1786 | dual unbounded     |
@@ -30,33 +30,33 @@
 | [CZPROB](czprob.mps.sol)       |    930 |   3523 |    14173 | -2.1851967e+06     |
 | [D2Q06C](d2q06c.mps.sol)       |   2172 |   5167 |    35674 | primal infeasible  |
 | [D6CUBE](d6cube.mps.sol)       |    416 |   6184 |    43888 | -3.1549167e+02     |
-| [DEGEN2](degen2.mps.sol)       |    445 |    534 |     4449 | 1.4351780e+03      |
-| [DEGEN3](degen3.mps.sol)       |   1504 |   1818 |    26230 | 9.8729400e+02      |
+| [DEGEN2](degen2.mps.sol)       |    445 |    534 |     4449 |  1.4351780e+03     |
+| [DEGEN3](degen3.mps.sol)       |   1504 |   1818 |    26230 |  9.8729400e+02     |
 | [DFL001](dfl001.mps.sol)       |   6072 |  12230 |    41873 | primal infeasible  |
-| [E226](e226.mps.sol)           |    224 |    282 |     2767 | 1.8751929e+01      |
-| [ETAMACRO](etamacro.mps.sol)   |    401 |    688 |     2489 | 7.5571523e+02      |
+| [E226](e226.mps.sol)           |    224 |    282 |     2767 |  1.8751929e+01     |
+| [ETAMACRO](etamacro.mps.sol)   |    401 |    688 |     2489 |  7.5571523e+02     |
 | [FFFFF800](fffff800.mps.sol)   |    525 |    854 |     6235 | -5.5567956e+05     |
 | [FINNIS](finnis.mps.sol)       |    498 |    614 |     2714 | -1.7279107e+05     |
-| [FIT1D](fit1d.mps.sol)         |     25 |   1026 |    14430 | 9.1463781e+03      |
+| [FIT1D](fit1d.mps.sol)         |     25 |   1026 |    14430 |  9.1463781e+03     |
 | [FIT1P](fit1p.mps.sol)         |    628 |   1677 |    10894 | -9.1463781e+03     |
-| [FIT2D](fit2d.mps.sol)         |     26 |  10500 |   138018 | 6.8464293e+04      |
+| [FIT2D](fit2d.mps.sol)         |     26 |  10500 |   138018 |  6.8464293e+04     |
 | [FIT2P](fit2p.mps.sol)         |   3001 |  13525 |    60784 | -6.8464293e+04     |
-| [FORPLAN](forplan.mps.sol)     |    162 |    421 |     4916 | 6.6421896e+02      |
-| [GANGES](ganges.mps.sol)       |   1310 |   1681 |     7021 | 1.0958574e+05      |
+| [FORPLAN](forplan.mps.sol)     |    162 |    421 |     4916 |  6.6421896e+02     |
+| [GANGES](ganges.mps.sol)       |   1310 |   1681 |     7021 |  1.0958574e+05     |
 | [GFRD-PNC](gfrd-pnc.mps.sol)   |    617 |   1092 |     3467 | -6.9022360e+06     |
-| [GREENBEA](greenbea.mps.sol)   |   2393 |   5405 |    31499 | 7.1501147e+07      |
+| [GREENBEA](greenbea.mps.sol)   |   2393 |   5405 |    31499 |  7.1501147e+07     |
 | [GREENBEB](greenbeb.mps.sol)   |   2393 |   5405 |    31499 | dual unbounded     |
-| [GROW15](grow15.mps.sol)       |    301 |    645 |     5665 | 1.0687094e+08      |
-| [GROW22](grow22.mps.sol)       |    441 |    946 |     8318 | 1.6083434e+08      |
-| [GROW7](grow7.mps.sol)         |    141 |    301 |     2633 | 4.7787812e+07      |
-| [ISRAEL](israel.mps.sol)       |    175 |    142 |     2358 | 8.9664482e+05      |
-| [KB2](kb2.mps.sol)             |     44 |     41 |      291 | 1.7499001e+03      |
-| [KEN-7](ken-7.mps.sol)         |   2426 |   3602 |     8404 | 6.7952044e+08      |
-| [KEN-11](ken-11.mps.sol)       |  14694 |  21349 |    49058 | 6.9723823e+09      |
-| [KEN-13](ken-13.mps.sol)       |  28632 |  42659 |    97246 | 1.0257395e+10      |
+| [GROW15](grow15.mps.sol)       |    301 |    645 |     5665 |  1.0687094e+08     |
+| [GROW22](grow22.mps.sol)       |    441 |    946 |     8318 |  1.6083434e+08     |
+| [GROW7](grow7.mps.sol)         |    141 |    301 |     2633 |  4.7787812e+07     |
+| [ISRAEL](israel.mps.sol)       |    175 |    142 |     2358 |  8.9664482e+05     |
+| [KB2](kb2.mps.sol)             |     44 |     41 |      291 |  1.7499001e+03     |
+| [KEN-7](ken-7.mps.sol)         |   2426 |   3602 |     8404 |  6.7952044e+08     |
+| [KEN-11](ken-11.mps.sol)       |  14694 |  21349 |    49058 |  6.9723823e+09     |
+| [KEN-13](ken-13.mps.sol)       |  28632 |  42659 |    97246 |  1.0257395e+10     |
 | [KEN-18](ken-18.mps.sol)       | 105127 | 154699 |   358171 | interrupted        |
-| [LOTFI](lotfi.mps.sol)         |    154 |    308 |     1086 | 2.5264706e+01      |
-| [MAROS](maros.mps.sol)         |    847 |   1443 |    10006 | 5.8063744e+04      |
+| [LOTFI](lotfi.mps.sol)         |    154 |    308 |     1086 |  2.5264706e+01     |
+| [MAROS](maros.mps.sol)         |    847 |   1443 |    10006 |  5.8063744e+04     |
 | [MAROS-R7](maros-r7.mps.sol)   |   3137 |   9408 |   151120 | primal infeasible  |
 | [MODSZK1](modszk1.mps.sol)     |    688 |   1620 |     4158 | dual unbounded     |
 | [NESM](nesm.mps.sol)           |    663 |   2923 |    13988 | -1.4076036e+07     |
@@ -75,13 +75,13 @@
 | [PILOT4](pilot4.mps.sol)       |    411 |   1000 |     5145 | dual unbounded     |
 | [PILOT87](pilot87.mps.sol)     |   2031 |   4883 |    73804 | primal infeasible  |
 | [PILOTNOV](pilotnov.mps.sol)   |    976 |   2172 |    13129 | primal infeasible  |
-| [RECIPE](recipe.mps.sol)       |     92 |    180 |      752 | 2.6661600e+02      |
-| [SC105](sc105.mps.sol)         |    106 |    103 |      281 | 5.2202061e+01      |
-| [SC205](sc205.mps.sol)         |    206 |    203 |      552 | 5.2202061e+01      |
-| [SC50A](sc50a.mps.sol)         |     51 |     48 |      131 | 6.4575077e+01      |
-| [SC50B](sc50b.mps.sol)         |     51 |     48 |      119 | 7.0000000e+01      |
-| [SCAGR25](scagr25.mps.sol)     |    472 |    500 |     2029 | 1.4753433e+07      |
-| [SCAGR7](scagr7.mps.sol)       |    130 |    140 |      553 | 2.3313898e+06      |
+| [RECIPE](recipe.mps.sol)       |     92 |    180 |      752 |  2.6661600e+02     |
+| [SC105](sc105.mps.sol)         |    106 |    103 |      281 |  5.2202061e+01     |
+| [SC205](sc205.mps.sol)         |    206 |    203 |      552 |  5.2202061e+01     |
+| [SC50A](sc50a.mps.sol)         |     51 |     48 |      131 |  6.4575077e+01     |
+| [SC50B](sc50b.mps.sol)         |     51 |     48 |      119 |  7.0000000e+01     |
+| [SCAGR25](scagr25.mps.sol)     |    472 |    500 |     2029 |  1.4753433e+07     |
+| [SCAGR7](scagr7.mps.sol)       |    130 |    140 |      553 |  2.3313898e+06     |
 | [SCFXM1](scfxm1.mps.sol)       |    331 |    457 |     2612 | -1.8416759e+04     |
 | [SCFXM2](scfxm2.mps.sol)       |    661 |    914 |     5229 | primal infeasible  |
 | [SCFXM3](scfxm3.mps.sol)       |    991 |   1371 |     7846 | -5.4901255e+04     |
@@ -94,8 +94,8 @@
 | [SCTAP2](sctap2.mps.sol)       |   1091 |   1880 |     8124 | -1.7248071e+03     |
 | [SCTAP3](sctap3.mps.sol)       |   1481 |   2480 |    10734 | -1.4240000e+03     |
 | [SEBA](seba.mps.sol)           |    516 |   1028 |     4874 | -1.5711600e+04     |
-| [SHARE1B](share1b.mps.sol)     |    118 |    225 |     1182 | 7.6589319e+04      |
-| [SHARE2B](share2b.mps.sol)     |     97 |     79 |      730 | 4.1573224e+02      |
+| [SHARE1B](share1b.mps.sol)     |    118 |    225 |     1182 |  7.6589319e+04     |
+| [SHARE2B](share2b.mps.sol)     |     97 |     79 |      730 |  4.1573224e+02     |
 | [SHELL](shell.mps.sol)         |    537 |   1775 |     4900 | -1.2088253e+09     |
 | [SHIP04L](ship04l.mps.sol)     |    403 |   2118 |     8450 | -1.7933245e+06     |
 | [SHIP04S](ship04s.mps.sol)     |    403 |   1458 |     5810 | -1.7987147e+06     |
@@ -108,8 +108,8 @@
 | [STANDATA](standata.mps.sol)   |    360 |   1075 |     3038 | -1.2576995e+03     |
 | [STANDGUB](standgub.mps.sol)   |    362 |   1184 |     3147 | -1.2576995e+03     |
 | [STANDMPS](standmps.mps.sol)   |    468 |   1075 |     3686 | -1.4060175e+03     |
-| [STOCFOR1](stocfor1.mps.sol)   |    118 |    111 |      474 | 4.1131976e+04      |
-| [STOCFOR2](stocfor2.mps.sol)   |   2158 |   2031 |     9492 | 3.9024409e+04      |
+| [STOCFOR1](stocfor1.mps.sol)   |    118 |    111 |      474 |  4.1131976e+04     |
+| [STOCFOR2](stocfor2.mps.sol)   |   2158 |   2031 |     9492 |  3.9024409e+04     |
 | [TUFF](tuff.mps.sol)           |    334 |    587 |     4523 | dual unbounded     |
 | [VTP.BASE](vtp.base.mps.sol)   |    199 |    203 |      914 | dual unbounded     |
 | [WOOD1P](wood1p.mps.sol)       |    245 |   2594 |    70216 | -1.4429024e+00     |
