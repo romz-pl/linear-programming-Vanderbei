@@ -28,7 +28,7 @@
 | [CRE-D](cre-d.mps.sol)         |   8926 |  69980 |   242646 | -2.4454970e+07     |
 | [CYCLE](cycle.mps.sol)         |   1904 |   2857 |    21322 | dual unbounded     |
 | [CZPROB](czprob.mps.sol)       |    930 |   3523 |    14173 | -2.1851967e+06     |
-| [D2Q06C](d2q06c.mps.sol)       |   2172 |   5167 |    35674 | -1.3099854e+05     |
+| [D2Q06C](d2q06c.mps.sol)       |   2172 |   5167 |    35674 | primal infeasible  |
 | [D6CUBE](d6cube.mps.sol)       |    416 |   6184 |    43888 | -3.1549167e+02     |
 | [DEGEN2](degen2.mps.sol)       |    445 |    534 |     4449 | 1.4351780e+03      |
 | [DEGEN3](degen3.mps.sol)       |   1504 |   1818 |    26230 | 9.8729400e+02      |
